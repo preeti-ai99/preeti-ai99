@@ -28,7 +28,6 @@ Special Interests: Business Analytics, NLP, Dashboards & Reporting
  – NLP pipeline for text classification and automation
 
 🌍 Connect with Me
-
-[LinkedIn](www.linkedin.com/in/preet-de)
+🔵 LinkedIn: https://www.linkedin.com/in/preet-de/
 📧 Email: Preet23thakur@gmail.com
  
