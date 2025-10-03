@@ -1,16 +1,34 @@
-## Hi there 👋
+👋 Hi, I'm Preeti
 
-<!--
-**preeti-ai99/preeti-ai99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student of MSc International Business Management & Data Science (Berlin)
+📚 MA Economics graduate from India
+💡 Passionate about Business Analytics, AI & Data-Driven Decision Making
 
-Here are some ideas to get you started:
+🔧 Skills & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Programming & Data: Python, Pandas, NumPy, Matplotlib, Scikit-learn
+
+Analytics & Visualization: Data Cleaning, EDA, Data Visualization
+
+Machine Learning: Regression, Classification, Prediction Models
+
+Special Interests: Business Analytics, NLP, Dashboards & Reporting
+
+📂 Featured Projects
+
+🔹 ShopPre Retail Market – EDA
+ – Retail sales data analysis, visualizations, and actionable insights
+🔹 Internship Success Predictor – ML Pipeline
+ – Predictive model for internship success using Python & Scikit-learn
+🔹 Methods of Prediction – ML Models
+ – Applied statistical prediction techniques on datasets
+🔹 Berlin Airbnb – EDA
+ – Visualized Airbnb data trends using Matplotlib and Seaborn
+🔹 Job Description Classification – NLP Pipeline
+ – NLP pipeline for text classification and automation
+
+🌍 Connect with Me
+
+[LinkedIn](www.linkedin.com/in/preet-de)
+📧 Email: Preet23thakur@gmail.com
+ 
