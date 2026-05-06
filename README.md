@@ -1,33 +1,44 @@
-👋 Hi, I'm Preeti
+# 👋 Hi, I'm Preeti
 
-🎓 Student of MSc International Business Management & Data Science (Berlin)
-📚 MA Economics graduate from India
-💡 Passionate about Business Analytics, AI & Data-Driven Decision Making
+🎓 Business & Data Science student in Berlin  
+💼 Aspiring Business Analyst | Customer Support | Data Enthusiast  
 
-🔧 Skills & Tools
+---
 
-Programming & Data: Python, Pandas, NumPy, Matplotlib, Scikit-learn
+## 💡 About Me
+I enjoy building real-world projects that combine business processes, data, and technology.  
+Currently focusing on Business Analytics, Customer Support Systems, and AI/Data-driven applications.
 
-Analytics & Visualization: Data Cleaning, EDA, Data Visualization
+---
 
-Machine Learning: Regression, Classification, Prediction Models
+## 🧑‍💻 Skills
+- Customer Support Systems  
+- Data Analysis  
+- Zendesk Ticketing System  
+- JavaScript & Firebase (Basic Projects)  
+- Business Process Understanding  
 
-Special Interests: Business Analytics, NLP, Dashboards & Reporting
+---
 
-📂 Featured Projects
+## 🚀 Featured Projects
 
-🔹 ShopPre Retail Market – EDA
- – Retail sales data analysis, visualizations, and actionable insights
-🔹 Internship Success Predictor – ML Pipeline
- – Predictive model for internship success using Python & Scikit-learn
-🔹 Methods of Prediction – ML Models
- – Applied statistical prediction techniques on datasets
-🔹 Berlin Airbnb – EDA
- – Visualized Airbnb data trends using Matplotlib and Seaborn
-🔹 Job Description Classification – NLP Pipeline
- – NLP pipeline for text classification and automation
+### 🌐 Workforce & Payroll Management System
+Deployed full-stack web app using Firebase & JavaScript  
+👉 Live: https://agg-reinigung-berlin.netlify.app/
 
-🌍 Connect with Me
-🔵 LinkedIn: https://www.linkedin.com/in/preet-de/
-📧 Email: Preet23thakur@gmail.com
- 
+### 📊 Zendesk Support Fundamentals Project
+Learning ticket lifecycle, macros, views, and customer workflows  
+👉 GitHub Repo below
+
+### 🤖 Machine Learning Projects
+Internship Success Predictor & other ML models
+
+---
+
+## 🎯 Goal
+To grow into a Business Analyst / Data-driven role where I can apply both business knowledge and technical skills.
+
+---
+
+## 📫 Contact
+Open to internships and working student roles in Berlin 🇩🇪
